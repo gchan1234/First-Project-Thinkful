@@ -1,0 +1,30 @@
+h1{
+	color: red;
+	text-align: center;
+	font-family: Verdana;
+	font-weight: bold;
+}
+body{
+	background-color: #FFAC0D;
+	font-family: Verdana;
+}
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: #FF0FC6;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
